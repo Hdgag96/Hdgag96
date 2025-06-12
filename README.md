@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
   - [Jwipe Disk Clean](https://github.com/Hdgag96/JWipe-Disk-Clean/tree/main)
-  - [Auto Sort Files][https://github.com/Hdgag96/Autos-sort-files/blob/main/README.md]
+  - [Auto Clean Files](https://github.com/Hdgag96/Autos-sort-files/blob/main/README.md)
   - 
 
 <h2>📜Certifications:</h2>
