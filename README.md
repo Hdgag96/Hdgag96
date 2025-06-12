@@ -1,9 +1,9 @@
-<h1>Hi, I'm Henry! <br/><a href="(https://github.com/Hdgag96/Hdgag96)">Programmer</a>, </h1>aCybersecurity Professional</a>
+<h1>Hi, I'm Henry! <br/><a href="(https://github.com/Hdgag96/Hdgag96)">IT Professional </a>, </h1>aCybersecurity Professional</a>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
   - [Jwipe Disk Clean](https://github.com/Hdgag96/JWipe-Disk-Clean/tree/main)
-
+  - [Auto Sort Files][https://github.com/Hdgag96/Autos-sort-files/blob/main/README.md](https://github.com/Hdgag96/Autos-sort-files/tree/main)
 
 <h2>📜Certifications:</h2>
 
