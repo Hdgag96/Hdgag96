@@ -8,9 +8,11 @@
 
 <h2>📜Certifications:</h2>
 
-- [Google CyberSecurity Professional]
+- Comptia CYSA+
+- 
+- Google CyberSecurity Professional
 
-- [Qualys Vulnerability Management]
+- Qualys Vulnerability Management
   
   <h2>🤳 Connect with me:</h2>
 
