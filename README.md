@@ -35,5 +35,5 @@ Cybersecurity professional (CompTIA CySA+) transitioning into DevOps and infrast
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hdgag96&show_icons=true&theme=default)
 
 ## 📫 Connect
-- LinkedIn: [add your URL]
+- LinkedIn: www.linkedin.com/in/henry-gagner
 - Email: henry.gagner01@gmail.com
